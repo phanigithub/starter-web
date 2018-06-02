@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Phani phani.rkt phaniisking
 
 # THANKS
 
