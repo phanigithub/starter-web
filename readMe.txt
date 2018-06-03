@@ -16,3 +16,5 @@
 ## First Copy Right from Master -- Rebase Example
 simple chng myfeature re
 ok 
+
+stash 2
